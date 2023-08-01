@@ -15,5 +15,5 @@ So, my programming task was completed in around 15 minutes.
 
 Before I fully finished, I uploaded it to Github.
 
-![Results without Star](result_no_star.png.png)
+![Results without Star](result_no_star.png)
 ![Results with Star](results_star.png)
